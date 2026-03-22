@@ -74,3 +74,6 @@ javascript-practice/
 │   ├── mini-project-2/
 │
 └── README.md
+
+<img width="435" height="714" alt="image" src="https://github.com/user-attachments/assets/f4fdfdc1-7195-4270-8caa-debc76472ce2" />
+
