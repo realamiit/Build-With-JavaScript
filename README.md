@@ -41,39 +41,9 @@ If you have better approaches or suggestions, feel free to:
 
 ---
 
-⭐ Keep Learning. Keep Building.
-
-
-javascript-practice/
-│
-├── basics/
-│   ├── variables.js
-│   ├── dataTypes.js
-│   ├── operators.js
-│
-├── functions/
-│   ├── normalFunctions.js
-│   ├── arrowFunctions.js
-│   ├── callbacks.js
-│
-├── arrays/
-│   ├── arrayMethods.js
-│   ├── problems.js
-│
-├── objects/
-│   ├── objectBasics.js
-│   ├── objectProblems.js
-│
-├── dsa/
-│   ├── twoSum.js
-│   ├── palindrome.js
-│   ├── validParentheses.js
-│
-├── projects/
-│   ├── mini-project-1/
-│   ├── mini-project-2/
-│
-└── README.md
 
 <img width="435" height="714" alt="image" src="https://github.com/user-attachments/assets/f4fdfdc1-7195-4270-8caa-debc76472ce2" />
+
+⭐ Keep Learning. Keep Building.
+
 
