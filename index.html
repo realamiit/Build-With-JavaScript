@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
@@ -8,9 +7,22 @@
 </head>
 <body>
 <div class="container">
-    <h2>Task Manager</h2>
-    <input type="text" id="taskInput" placeholder="Enter a task..." />
-    <button onclick="addTask()">Add Task</button>
+    <div class="top-bar">
+        <h2>Task Manager</h2>
+        <button onclick="toggleTheme()">🌙</button>
+    </div>
+
+    <div class="input-group">
+        <input type="text" id="taskInput" placeholder="Enter a task..." />
+        <button onclick="addTask()">Add</button>
+    </div>
+
+    <div class="filters">
+        <button onclick="filterTasks('all')">All</button>
+        <button onclick="filterTasks('completed')">Completed</button>
+        <button onclick="filterTasks('pending')">Pending</button>
+    </div>
+
     <ul id="taskList"></ul>
 </div>
 
