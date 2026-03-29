@@ -29,7 +29,7 @@ I am consistently improving my JavaScript skills by practicing:
 ## 💡 Approach
 I believe in learning step by step with consistency and practical implementation.
 
-## 🤝 योगदान / Suggestions
+## 🤝 Suggestions
 If you have better approaches or suggestions, feel free to:
 - Fork this repo
 - Create a pull request
@@ -37,7 +37,8 @@ If you have better approaches or suggestions, feel free to:
 
 ## 🔗 Connect with me
 - LinkedIn: (www.linkedin.com/in/realamiit)
-- GitHub: ((https://github.com/realamiit/)
+- GitHub: (https://github.com/realamiit/)
+- Instagram: (https://www.instagram.com/realamiit?igsh=MXNvMDcxNG5kaG1udQ==)
 
 ---
 <img width="435" height="714" alt="image" src="https://github.com/user-attachments/assets/f4fdfdc1-7195-4270-8caa-debc76472ce2" />
