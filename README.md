@@ -8,7 +8,7 @@ I am consistently improving my JavaScript skills by practicing:
 - Problem-solving (DSA)
 - Mini projects
 
-## 📂 Folder Structure
+## 📂 Folder's Structure
 - `basics/` → Fundamentals of JavaScript
 - `functions/` → Function concepts & usage
 - `arrays/` → Array methods & problems
