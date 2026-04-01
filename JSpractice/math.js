@@ -8,6 +8,8 @@
 // console.log(abc.shuffle(arr));
 // console.log(abc.sample(arr));
 
+// this code also u explain the chunk function how it works 
+
 function chunk(arr, size) {
     let res = [];
     
