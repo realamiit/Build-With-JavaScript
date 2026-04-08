@@ -1,4 +1,4 @@
-# 🚀 JavaScript Practice Repository
+## 🚀 JavaScript Practice Repository
 
 This repository contains my daily JavaScript practice, including core concepts, problem-solving, and small projects.
 
