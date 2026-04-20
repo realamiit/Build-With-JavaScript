@@ -5,7 +5,7 @@ This repository contains my daily JavaScript practice, including core concepts, 
 ## 📌 About
 I am consistently improving my JavaScript skills by practicing:
 - Core JavaScript concepts
-- Problem-solving (DSA)
+- Problem-solving (DSA))
 - Mini projects
 
 ## 📂 Folder's Structure
