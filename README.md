@@ -1,12 +1,13 @@
-# 🚀 JavaScript Practice Repository
+## 🚀 JavaScript Practice Repository
 
 This repository contains my daily JavaScript practice, including core concepts, problem-solving, and small projects.
 
 ## 📌 About
 I am consistently improving my JavaScript skills by practicing:
 - Core JavaScript concepts
-- Problem-solving (DSA)
+- Problem-solving (DSA))
 - Mini projects
+
 
 ## 📂 Folder's Structure
 - `basics/` → Fundamentals of JavaScript
@@ -42,7 +43,6 @@ If you have better approaches or suggestions, feel free to:
 
 ---
 <img width="435" height="714" alt="image" src="https://github.com/user-attachments/assets/f4fdfdc1-7195-4270-8caa-debc76472ce2" />
-
 
 adding more things 
 
