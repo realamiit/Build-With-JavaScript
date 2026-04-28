@@ -1,4 +1,5 @@
-let color = "red";
+//  how works traffic light 
+let color = "Green";
 
 if(color === "red"){
     console.log("Stop Here");
