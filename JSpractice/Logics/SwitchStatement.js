@@ -13,5 +13,4 @@ switch (color){
     default : 
         console.log("BrRak the light")
 }
-
 console.log("After yje syam");
