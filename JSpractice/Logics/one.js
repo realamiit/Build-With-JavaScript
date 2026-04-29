@@ -48,3 +48,40 @@ if(month === " jaunary"){
 }else if(month == "September"){
     console.log("Raining is here");
 }
+
+// Another Example for student go to school;
+
+let day = "Friday";
+
+if(day === "Sunday"){
+    console.log("Today is holiday");
+}else if(day === "Monday"){
+    console.log("Today is workingday");
+}else if(day === "Tuesday"){
+    console.log("Today is workingday");
+
+}else if(day === "Wednesday"){
+    console.log("Today is workingday");
+}else if(day === "Thrusday"){
+console.log("Today is workingday");
+}else if(day === "Friday"){
+console.log("Today is workingday");
+}else if(day === "Saturday"){
+console.log("Today is workingday");
+}
+
+// Popcorn calculator system  using if else Condition
+
+let Popcorn ="XL";
+
+if(Popcorn == "S"){
+    console.log("Popcorn price is 50");
+}else if(Popcorn == "M"){
+    console.log("Popcorn price is 100");
+}else if(Popcorn == "L"){
+    console.log("Popcorn price is 200");
+}else if(Popcorn == "XL"){
+    console.log("Popcorn price is 250");
+}else(Popcorn == "XXL")
+    console.log("Popcorn price is 280");
+
