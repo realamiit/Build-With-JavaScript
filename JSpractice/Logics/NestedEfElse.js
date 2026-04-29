@@ -13,3 +13,4 @@ if(marks >=33){
 }else{
     console.log("Better Luck Next Time");
 }
+
