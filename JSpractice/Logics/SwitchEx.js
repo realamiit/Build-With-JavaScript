@@ -1,5 +1,5 @@
 // using switch statement 
-let day = 5;
+let day = 3;
 
 switch (day) {
   case 1:
@@ -19,6 +19,9 @@ switch (day) {
     break;
   case 6:
     console.log("Saturday");
+    break;
+    case 7:
+        console.log("Sunday")
   default:
-    console.log("S\Today is Sunday");
+    console.log("Wrong Day");
 }
