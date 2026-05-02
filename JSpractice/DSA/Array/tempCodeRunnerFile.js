@@ -1,2 +1,2 @@
-Vehicle.pop();
-// console.log(Vehicle);
+.splice(4);
+// console.log(A1);
