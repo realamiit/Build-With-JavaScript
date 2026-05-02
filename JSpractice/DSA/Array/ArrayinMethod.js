@@ -152,6 +152,9 @@ let number = [2,4,1,66,22,77,23,34,34,56,65,43,35,65,34,765,543,335,566];
 
 short = number.sort();
 console.log(short);  
+//1,  2, 22,  23, 335, 34,  34,
+//   34, 35,  4,  43, 543, 56, 566,
+//   65, 65, 66, 765,  77
 // only Sring and char can gave u accurate sort cause 
 // pehele string me conver krta hai fir hme output deta hai
 //  pehele UTF16 ke undr yani string ke undr jake fir output deta hai 
