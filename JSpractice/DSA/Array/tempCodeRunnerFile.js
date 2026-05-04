@@ -1,2 +1,4 @@
-.splice(4);
-// console.log(A1);
+
+// [ 'X', 'Null', 'O' ]
+// [ 'null', 'X', 'O' ]
+// [ 'O', 'null', 'X' ]
