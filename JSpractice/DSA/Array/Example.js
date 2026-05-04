@@ -4,5 +4,5 @@ console.log(arr);
 
 
 // [ 'X', 'Null', 'O' ]
-// [ 'null', 'X', 'O' ]
+// [ 'null', 'X', 'O' ];
 // [ 'O', 'null', 'X' ]
