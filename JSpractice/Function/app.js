@@ -7,10 +7,11 @@ setTimeout(() => {
     console.log("hello Chunmun meyauuu");
 
 },5000); // 4 sec
+
 try {
   return kjzdnbkbsdhb;
 } catch (err) {
-  console.log(err.message); // "kjzdnbkbsdhb is not defined"
+  console.log(err.message); //the output :"kjzdnbkbsdhb is not defined"
 }
 
 console.log("five");
