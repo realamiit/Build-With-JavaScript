@@ -44,3 +44,6 @@ const myFunction = function(){
 // find Datatypes any value
 
 console.log(typeof  BigNumber);
+
+// https://262.ecma-international.org/5.1/#sec-11.4.3
+// here we see which types of dtatype by the using typeof function or obj name 
