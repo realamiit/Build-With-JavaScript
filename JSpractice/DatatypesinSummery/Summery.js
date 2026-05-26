@@ -46,4 +46,27 @@ const myFunction = function(){
 console.log(typeof  BigNumber);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
-// here we see which types of dtatype by the using typeof function or obj name 
+// here we see which types of dtatype by the using typeof function or obj name by the which type of value store in data or obj, function 
+
+
+// --&&&&&&&&&&&&&&&&&&&&&77------
+
+// stack (premitive) , Heap (non-Premitive)
+
+
+let myindtagramename = "realamiit";
+let anothername = "meAmdYuou";
+console.log(myindtagramename);
+console.log(anothername);
+
+
+let userOne = {
+    email:"amit@gmail.com",
+    upi: "realamiit@ubino",
+}
+let userTwo = userOne
+
+userTwo.email = "amit@google.com"
+
+console.log(userOne.email);
+console.log(userTwo.email)
