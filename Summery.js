@@ -32,13 +32,13 @@ let myObj = {
     name: "AMit",
     class: "BCA",
     age: 22,
-}
+};
 
 // function
 
 const myFunction = function(){
     console.log("Hello world");
-}
+};
 
 
 // find Datatypes any value
@@ -63,10 +63,10 @@ console.log(anothername);
 let userOne = {
     email:"amit@gmail.com",
     upi: "realamiit@ubino",
-}
-let userTwo = userOne
+};
+let userTwo = userOne;
 
-userTwo.email = "amit@google.com"
+userTwo.email = "amit@google.com";
 
 console.log(userOne.email);
-console.log(userTwo.email)
+console.log(userTwo.email);
