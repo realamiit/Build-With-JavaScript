@@ -2,8 +2,8 @@ let person = {
     name: "Amit Gupta",
     age: 22,
     rollno : 11,
-    cource: "BCA",
-    college: "Dr Ghanshyam Singh College of Aducation Varanasi mohav",
+    course: "BCA",
+    college: "Dr Ghanshyam Singh College of Education Varanasi mohav",
     city: "Varanasi",
 
 }
