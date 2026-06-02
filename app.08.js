@@ -8,7 +8,12 @@ let person = {
 
 }
 
-console.log(person);
+console.log(person.name);
+console.log(person.city);
+console.log(person.age);
+console.log(person.rollno);
+console.log(person.college);
+console.log(person.course);
 
 
 // pehele eek person name se object bnaya jisme fir apni deatils store ki jai name 
