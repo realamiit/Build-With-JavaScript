@@ -3,7 +3,7 @@ let person = {
     age: 22,
     rollno : 11,
     course: "BCA",
-    college: "Dr Ghanshyam Singh College of Education Varanasi mohav",
+    college: "DGSCE Varanasi mohav",
     city: "Varanasi",
 
 }
