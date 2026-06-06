@@ -1,10 +1,10 @@
 let marks = 45;
 
 if(marks > 40){
-    console.log("mai PASS ho gyaa!")
+    console.log("mai PASS ho gyaa!");
 }else{
-    console.log("mai Fail ho gya!")
-}
+    console.log("mai Fail ho gya!");
+};
 
 
 // let marks in intiger 45 
