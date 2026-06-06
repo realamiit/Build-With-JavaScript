@@ -6,3 +6,4 @@ console.log(result);
 
 // function ko add line ke baad fir return liye ab us return ke liye 
 //after let result uske krke add use kiya fir console.log(return) liya  
+//than we get output of the code function bna bhi call bhi huva                                                                                                      
