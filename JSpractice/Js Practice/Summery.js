@@ -47,9 +47,10 @@ console.log(typeof  BigNumber);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
 // here we see which types of dtatype by the using typeof function or obj name by the which type of value store in data or obj, function 
+// kon se type ka function hai ye btata using this keyword typeof();
 
 
-// --&&&&&&&&&&&&&&&&&&&&&77------
+// --&&&&&&&&&&&&&&&&&&&&&77---
 
 // stack (premitive) , Heap (non-Premitive)
 
