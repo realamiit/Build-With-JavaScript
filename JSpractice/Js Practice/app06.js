@@ -6,6 +6,7 @@ console.log("we have total: "+fruits.length+" fruits");
 console.log(fruits[3]);
 console.log(fruits.length);
 console.log(fruits.toUppercase);
+console.log(fruits.toLowercase);
 
 //  lets summerize  
 // pehele let fruits name ka eek variable bnaya usme store kiya some name of fruits and than 
@@ -15,3 +16,4 @@ console.log(fruits.toUppercase);
 // bil gya kitne frruits hai hmdare fruits naame ke array me  tha again we print fruits[3] extractt  banana aaya jo ki arr ke 3rd pe hai
 //  fruits kelength ko pta krooo
 // to use fruits.toUppercase  sb uppercase me ho jayga 
+// to use this fruits.toLowercase sb lowercase me ho jayega character
