@@ -7,7 +7,7 @@
  const score = 2000;
 
 const ScoreValue = 544.34;
-const rollNum = 2122239756;
+const rollNum = 2129756;
 const isLoggedIN = false;
 const outsideTemp = null;
 
@@ -37,7 +37,7 @@ let myObj = {
 // function
 
 const myFunction = function(){
-    console.log("Hello world");
+    console.log("Hello everyone lets explore world with amit ");
 };
 
 
