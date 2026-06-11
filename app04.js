@@ -6,6 +6,6 @@ function greet(name){
 greet("Ashish");
 greet("Aman");
 greet("Amit");
-greet("Motan");
+greet("Mohan");
 greet("Rohit");
 greet("Rahul");

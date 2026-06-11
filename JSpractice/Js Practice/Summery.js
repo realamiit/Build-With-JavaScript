@@ -7,7 +7,7 @@
  const score = 2000;
 
 const ScoreValue = 544.34;
-const rollNum = 2122239756;
+const rollNum = 2129756;
 const isLoggedIN = false;
 const outsideTemp = null;
 
@@ -37,7 +37,7 @@ let myObj = {
 // function
 
 const myFunction = function(){
-    console.log("Hello world");
+    console.log("Hello everyone lets explore world with amit ");
 };
 
 
@@ -47,9 +47,10 @@ console.log(typeof  BigNumber);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
 // here we see which types of dtatype by the using typeof function or obj name by the which type of value store in data or obj, function 
+// kon se type ka function hai ye btata using this keyword typeof();
 
 
-// --&&&&&&&&&&&&&&&&&&&&&77------
+// --&&&&&&&&&&&&&&&&&&&&&77---
 
 // stack (premitive) , Heap (non-Premitive)
 
