@@ -5,5 +5,6 @@ while (i<=10){
 }
 
 // code ko realible and readable hiva bjaye eek hi 
-// line me console.log(i++) me ye likh skte but wwe are profectional broo 
+// line me console.log(i++) me ye likh skte but
+//  we are profectional broo   
 //  an the output is : 1 2 3 4 5 6 7 8 9 10
