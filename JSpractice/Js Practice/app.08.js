@@ -20,4 +20,4 @@ console.log(person.course);
 // "Amit Gupta"  in string , age 22 int , rollno 11 in int , Cource "BCA" , college "DGSCA" city "Varanasi",
 // also string  than closse the curl bracket  than the console .log ke udr for print krege person /
 //  than we get our all deatil in stored in the valu in person object i means extract  all the 
-// store value also  
+// store value also 

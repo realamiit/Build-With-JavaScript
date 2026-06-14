@@ -11,4 +11,5 @@ for (let i = 1; i <= 5; i++) {
 //  the print 3 than again i++ 4 hoga than tha ahiain cheak condation than the i=4 is greaterthan
 // are equalm to 5 tha condation iis truure than return thw i++ than
 // the condation is true than return 5 than it always print in next line keep remember  after 5
-// i++ than 6 not true vthe condation is false it break the loop and stop it
+// i++ than 6 not true vthe condation is false it break the loop and stop on it
+
