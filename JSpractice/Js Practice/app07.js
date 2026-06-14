@@ -7,4 +7,5 @@ for(let i = 0; i< fruits.length;i++){
 
 // eek variabke bnaya jiska name fruits usme mango, papaya, banana, muskmeloon ,litchi, pinapple 
 
-//  ab using for loop sare fruits ko print krwaya sicquence wise and  print it on the console as well as 
+//  ab using for loop sare fruits ko print krwaya sicquence wise and  print it on the console as well as
+// to hme mila sare fruits ka Secquence  

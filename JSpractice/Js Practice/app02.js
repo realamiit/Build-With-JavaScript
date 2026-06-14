@@ -1,6 +1,6 @@
-let marks = 45;
+let marks = 50;
 
-if(marks > 40){
+if(marks > 45){
     console.log("mai PASS ho gyaa!")
 }else{
     console.log("mai Fail ho gya!")

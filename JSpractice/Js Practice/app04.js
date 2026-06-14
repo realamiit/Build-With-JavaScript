@@ -6,15 +6,13 @@ function greet(name){
 greet("Ashish");
 greet("Aman");
 greet("Amit");
-// <<<<<<< HEAD
 greet("Motan");
 greet("Rohit");
 greet("Rahul");
-// =======
 
 
 // creat a function than put  the greet function name is name
 // print  name welcome to java script thsn the  after creat greet duncttion 
 // we create a method like bluprint than we call greet(name);
 // three different different people as well as 
-// >>>>>>> 39088dcec65e96d6ddeac3c3946204f71b81279b
+
