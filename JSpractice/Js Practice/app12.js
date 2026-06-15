@@ -14,7 +14,8 @@ console.log(!hasID);
 //  air thrie console me ! ye jo hai shi ko galt UER Glt ko shi kr dwega only 
 // hasID tha tb sahi tha but after !hasID ke baad putput ko false dene lga kuki true thi is comdation
 //  me agr eek bhi condation true hai to ye false kr dtaga hai mtlb jb hmare paas true value  
-// rhrgi to true valu na deke false dega kyuki iska nature hi vaisa hai kisis bhi condation me ye negative hi return krega 
+// rhrgi to true valu na deke false dega kyuki iska nature hi vaisa hai
+//  kisis bhi condation me ye negative hi return krega 
 // ye hai output : true
 //                 true
 //                 false
