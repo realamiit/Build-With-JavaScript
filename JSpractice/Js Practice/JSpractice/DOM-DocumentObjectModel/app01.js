@@ -29,3 +29,13 @@
 document.getElementById("title").innerText = "JavaScript Seekh Raha Hoon!";
 document.getElementById("title").style.fontSize = "40px";
 document.getElementById("para").style.color = "red";
+
+//  Butten Click eavent
+
+document.getElementById("btn").addEventListener("click" ,function(){
+    // jab bhi click kre ya ho tb ye kaam krooo!
+
+});
+
+
+    
