@@ -26,16 +26,24 @@
 // document.getElementById("title").style.color = "Red";
 
 
-document.getElementById("title").innerText = "JavaScript Seekh Raha Hoon!";
-document.getElementById("title").style.fontSize = "40px";
-document.getElementById("para").style.color = "red";
+// document.getElementById("title").innerText = "JavaScript Seekh Raha Hoon!";
+// document.getElementById("title").style.fontSize = "40px";
+// document.getElementById("para").style.color = "red";
 
 //  Butten Click eavent
 
 document.getElementById("btn").addEventListener("click" ,function(){
     // jab bhi click kre ya ho tb ye kaam krooo!
+    document.getElementById("title").innerText="Button Click ho gya!";
 
 });
 
 
-    
+// 💡 Golden Rule:
+
+// JS ka getElementById("___") aur HTML ka id="___" bilkul same hona chahiye!
+
+// Yeh teen cheezein DOM ki jaan hain:
+//  . document.getElementById()      // Element dhundho
+//  . element.innerText = "..."      // Content change karo  
+//  . element.addEventListener()     // Event suno — click, hover, etc.
