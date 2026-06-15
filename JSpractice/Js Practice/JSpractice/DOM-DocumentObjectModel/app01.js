@@ -17,10 +17,15 @@
 // 📝 3 Important Lines Note Karo:
 
 // 1. Element Dhundane ke liye 
-document.getElementById("title");
+// document.getElementById("title");
 
 // 2. Text chane kroo 
-document.getElementById("title").innerText = "Naya Text!"
+// document.getElementById("title").innerText = "Naya Text!";
 
 // 3.Style change karo 
-document.getElementById("title").style.color = "Blue"
+// document.getElementById("title").style.color = "Red";
+
+
+document.getElementById("title").innerText = "JavaScript Seekh Raha Hoon!";
+document.getElementById("title").style.fontSize = "40px";
+document.getElementById("para").style.color = "red";
