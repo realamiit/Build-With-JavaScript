@@ -47,3 +47,6 @@ document.getElementById("btn").addEventListener("click" ,function(){
 //  . document.getElementById()      // Element dhundho
 //  . element.innerText = "..."      // Content change karo  
 //  . element.addEventListener()     // Event suno — click, hover, etc.
+
+
+document.getElementById("inputBox").value  // input ki value lene ke liye!
