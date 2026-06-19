@@ -122,9 +122,9 @@ let Things = [
  console.log(th3); //  [ 'march', 'August' ]
 
  th5 = Things.slice();
- console.log(th5);  // [ 'Books',    'Blue','Yellow',   'Green','Orange',   'Red','Lavender', 'Pink','Jaunary',  'july','march',    'August ]
+ console.log(th5);  // [ 'Books',  'Blue','Yellow',   'Green','Orange',   'Red','Lavender', 'Pink','Jaunary',  'july','march',    'August ]
 
-                //    *****Splice method*******
+  //    *****Splice method*******
 
 let Animal = ["lino","Rabbit","wolf","fox","dear","zebra","Elephamt","Dragon"];
 A1 = Animal.splice(4);
