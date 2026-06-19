@@ -32,9 +32,9 @@
 
 //  Butten Click eavent
 
-document.getElementById("btn").addEventListener("click" ,function(){
+document.getElementById("btn").addEventListener("click kareke ba abhi " ,function(){
     // jab bhi click kre ya ho tb ye kaam krooo!
-    document.getElementById("title").innerText="Button Click ho gya!";
+    document.getElementById("title").innerText="Button Click ho gyyiil ba ho";
 
 });
 
