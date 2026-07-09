@@ -9,5 +9,5 @@ console.log(" mai eek developer banuga");
 // pehele constant name liya fir 
 // age liya integer 
 // than console.log me apna variable use Kiya 
-// than second me age liya print krwayaa
-// last me kiya "mai eek devellloper banuga"
+// than again console.log me age print krwayaa
+// the output is : "mai eek devellloper banuga
