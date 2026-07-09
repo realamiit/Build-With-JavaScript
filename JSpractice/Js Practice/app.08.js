@@ -1,7 +1,7 @@
 let person = {
     name: "Amit Gupta",
     age: 22,
-    rollno : 11,
+    rollNo : 11,
     course: "BCA",
     college: "Dr Ghanshyam Singh College of Education Varanasi mohav",
     city: "Varanasi",
@@ -14,6 +14,10 @@ console.log(person.age);
 console.log(person.rollno);
 console.log(person.college);
 console.log(person.course);
+console.log(person);
+console.log(typeOf person);
+console.log(typeOf college);
+console.log(typeOf course);
 
 
 // pehele eek person name se object bnaya jisme fir apni deatils store ki jai name 
