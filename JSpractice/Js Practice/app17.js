@@ -1,9 +1,21 @@
-//  Normal function
+//  Normal function creating 
 // function add(a,b){
 //     return a+b;
 // }
+// function add(a,b){
+//     return a-b;
+// }
 
-// Arrow function - shortcot!
+// function add(a,b){
+//     return a*b;
+// }
+
+// function add(a,b){
+//     return a/b;
+// }
+
+
+// Arrow function - shortcot! and efficient and good practice also 
 const add = (a,b) => a+b;
 console.log(add (4,6));
 
@@ -15,3 +27,7 @@ console.log(div(12,4));
 
 const sub = (a,b) => a-b;
 console.log(sub(70,35));
+
+const sub = (a, "b") => a === "b";
+console.log = (55, 55);
+
