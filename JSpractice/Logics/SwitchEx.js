@@ -23,5 +23,5 @@ switch (day) {
   case 7:
     console.log("Today is Sunday(funday)");
   default:
-    console.log("Wrong Day");
+    console.log("Today is no more Day Day");
 }
