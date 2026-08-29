@@ -1,4 +1,3 @@
-// its ok ok
 // let i = 1;
 // do{
 //     console.log("Task kr rha huu");

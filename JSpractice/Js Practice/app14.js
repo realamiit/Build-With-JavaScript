@@ -1,4 +1,5 @@
-let grade = "A";
+//  Switch and break case
+let grade = "A", "B" , "C";
 switch (grade) {
   case "A":
     console.log("Excellent!");
@@ -11,9 +12,8 @@ switch (grade) {
     break;
   default:
     console.log("Invalid Grade!");
-}
+};
 
-
-//  Switch and break case 
-//  EEk variavle grade bnaya jisme "A","B","C" 
-// usko switch use kreke print krwao According to Grade
+console.log(grade);
+console.log(typeOf grade);
+ 

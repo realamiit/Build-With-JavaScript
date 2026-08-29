@@ -20,7 +20,7 @@ console.log("Six");
 
 
 // Catch :let me accept the task
-// try :if task is false then , here is my backup plan 
+// try :if task is false then , here is my backup plan to get after trying to attempt 
 
 //  when we use this in the this flow like 0ne, two, three , four, [SetTimeoute] , five , six : it this flow than there 
 //  it this middle the function these  setTimeout  in we can go with set time out if time 0 sec (0 milisecond) than also go with the output is this flow
