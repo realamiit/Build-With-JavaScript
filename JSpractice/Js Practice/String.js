@@ -1,7 +1,7 @@
 const name = "Amit"
 const repoCount = 50
 
-console.log(name + repoCount + "Value");  // the output is v
+console.log(name + repoCount + "Value");  // the output is Amit50Value
 2
 const repoCount = 50;
 3
