@@ -5,7 +5,7 @@ console.log("three");
 setTimeout(() => {
     console.log("Hello world I came in 4second letter!!");
 
-},6000); // 4 sec
+},5000); // 5 sec baad diyege 
 
 // setTimeout("AmitGupta", 5000 );
 
