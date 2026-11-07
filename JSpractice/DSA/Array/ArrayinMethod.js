@@ -44,19 +44,20 @@ console.log("I Am Blocked By yoU :", Blocked); // blockrd user
 
 let Month = ["Jaunary", "july", "march", "August"];
 
-// Month[0] = "july";
-// Month[1] = "june";
+ Month[0] = "july";
+ Month[1] = "june";
 
-// console.log(Month);
+ console.log(Month);
 
 Month.shift();
-// console.log(Month);
+ console.log(Month);
 Month.shift();
-// console.log(Month);
+ console.log(Month);
 Month.unshift("june");
-// console.log(Month);
+ console.log(Month);
 Month.unshift("july");
-console.log(Month); //  [ 'july', 'june', 'march', 'August' ]
+console.log(Month); 
+//  [ 'july', 'june', 'march', 'August' ]
 
 // **********Some more method *********
 
