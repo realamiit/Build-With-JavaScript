@@ -3,10 +3,10 @@ let age = 22;
 let rollNo = 3;
 const subject = "MCA";
 
-const detailOfAmit {
+const detailsOfAmit {
 name = "Amit Gupta";
-age = 22;
-rollNo = 3;
+age = 21;
+rollNo = 26150CN151;
 subject = "MCA";
 } 
  let s === detailOfAmit;
