@@ -12,7 +12,7 @@ console.log(Vehicle);
 Vehicle.push("Audi");
 console.log(Vehicle);
 
-//********** Array in pop() method**********
+// Array in pop() method
 
 Vehicle.pop();
 console.log(Vehicle);
