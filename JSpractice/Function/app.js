@@ -7,7 +7,7 @@ setTimeout(() => {
 
 },5000); // 5 sec baad diyege 
 
-// setTimeout("AmitGupta", 5000 );
+setTimeout("AmitGupta", 5000 );
 
 try {
   return kjzdnbkbsdhb;
@@ -18,6 +18,7 @@ try {
 console.log("five");
 console.log("Six");
 console.log("Seven");
+
 
 
 // Catch :let me accept the task
